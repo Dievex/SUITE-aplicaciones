@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Contabilidad -->
+  <rect x="120" y="120" width="272" height="272" rx="10" fill="#f0f0f0" stroke="#9c27b0" stroke-width="10"/>
+  <path d="M120 170 L392 170" stroke="#9c27b0" stroke-width="5"/>
+  <rect x="150" y="190" width="212" height="40" rx="5" fill="#9c27b0" />
+  <rect x="150" y="250" width="212" height="40" rx="5" fill="#9c27b0" />
+  <rect x="150" y="310" width="212" height="40" rx="5" fill="#9c27b0" />
+  <path d="M140 145 L180 145" stroke="#9c27b0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M200 145 L240 145" stroke="#9c27b0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M260 145 L300 145" stroke="#9c27b0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M320 145 L360 145" stroke="#9c27b0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M170 210 L190 210" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 210 L340 210" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M170 270 L190 270" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 270 L340 270" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M170 330 L190 330" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 330 L340 330" stroke="white" stroke-width="3" stroke-linecap="round"/>
+</svg>

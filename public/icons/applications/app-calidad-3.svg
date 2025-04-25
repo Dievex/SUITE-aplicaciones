@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Documentación ISO -->
+  <path d="M150 100 L362 100 L362 412 L150 412 Z" fill="#f0f0f0" stroke="#4caf50" stroke-width="10"/>
+  <path d="M180 150 L332 150" stroke="#4caf50" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 190 L332 190" stroke="#4caf50" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 230 L332 230" stroke="#4caf50" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 270 L332 270" stroke="#4caf50" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 310 L332 310" stroke="#4caf50" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 350 L250 350" stroke="#4caf50" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="320" cy="350" r="40" fill="#4caf50"/>
+  <path d="M300 350 L320 370 L345 335" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 100 L180 130 L180 100 Z" fill="#4caf50"/>
+</svg>

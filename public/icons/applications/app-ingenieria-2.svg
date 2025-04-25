@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Gestión de Proyectos -->
+  <rect x="100" y="120" width="312" height="272" rx="10" fill="#f0f0f0" stroke="#f44336" stroke-width="10"/>
+  <rect x="130" y="150" width="252" height="40" rx="5" fill="#f44336" />
+  <rect x="130" y="210" width="120" height="80" rx="5" fill="#f44336" />
+  <rect x="270" y="210" width="112" height="80" rx="5" fill="#f44336" />
+  <rect x="130" y="310" width="80" height="60" rx="5" fill="#f44336" />
+  <rect x="230" y="310" width="80" height="60" rx="5" fill="#f44336" />
+  <rect x="330" y="310" width="52" height="60" rx="5" fill="#f44336" />
+  <path d="M150 170 L360 170" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M150 250 L230 250" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M290 250 L360 250" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M150 340 L190 340" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M250 340 L290 340" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M340 340 L370 340" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M150 230 L170 230 L170 270 L150 270 Z" fill="white"/>
+  <path d="M290 230 L310 230 L310 270 L290 270 Z" fill="white"/>
+</svg>

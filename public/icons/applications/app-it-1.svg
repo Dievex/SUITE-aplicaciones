@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Gestión de Tickets -->
+  <rect x="100" y="150" width="312" height="212" rx="10" fill="#f0f0f0" stroke="#2196f3" stroke-width="10"/>
+  <rect x="130" y="180" width="252" height="40" rx="5" fill="#2196f3" />
+  <rect x="130" y="240" width="252" height="40" rx="5" fill="#2196f3" />
+  <rect x="130" y="300" width="252" height="40" rx="5" fill="#2196f3" />
+  <circle cx="150" cy="200" r="10" fill="white"/>
+  <circle cx="150" cy="260" r="10" fill="white"/>
+  <circle cx="150" cy="320" r="10" fill="white"/>
+  <path d="M170 200 L360 200" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M170 260 L360 260" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M170 320 L360 320" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M256 120 L256 150" stroke="#2196f3" stroke-width="10" stroke-linecap="round"/>
+  <path d="M256 362 L256 392" stroke="#2196f3" stroke-width="10" stroke-linecap="round"/>
+  <path d="M226 135 L286 135" stroke="#2196f3" stroke-width="10" stroke-linecap="round"/>
+</svg>

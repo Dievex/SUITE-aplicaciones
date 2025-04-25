@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Icono de Logística - Camión/Transporte -->
+  <rect x="100" y="280" width="312" height="80" rx="10" fill="#ff9800" />
+  <rect x="100" y="240" width="200" height="40" fill="#ff9800" />
+  <circle cx="150" cy="360" r="30" fill="#333" stroke="#f0f0f0" stroke-width="5" />
+  <circle cx="350" cy="360" r="30" fill="#333" stroke="#f0f0f0" stroke-width="5" />
+  <path d="M412 280 L412 340 L380 340 L380 280 Z" fill="#ff9800" />
+  <path d="M100 280 L412 280 L380 240 L100 240 Z" fill="#ffb74d" />
+  <rect x="120" y="260" width="40" height="20" fill="#f0f0f0" />
+  <rect x="180" y="260" width="40" height="20" fill="#f0f0f0" />
+  <path d="M150 360 A15 15 0 0 0 150 330 A15 15 0 0 0 150 360 Z" fill="#f0f0f0" />
+  <path d="M350 360 A15 15 0 0 0 350 330 A15 15 0 0 0 350 360 Z" fill="#f0f0f0" />
+</svg>

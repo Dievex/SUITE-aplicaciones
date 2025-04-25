@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Icono de Ingeniería - Engranajes/Herramientas -->
+  <circle cx="256" cy="256" r="150" fill="#f0f0f0" stroke="#f44336" stroke-width="10"/>
+  <path d="M256 150 L256 170 M256 342 L256 362 M150 256 L170 256 M342 256 L362 256 M185 185 L200 200 M312 312 L327 327 M185 327 L200 312 M312 200 L327 185" stroke="#f44336" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="256" cy="256" r="60" fill="#f0f0f0" stroke="#f44336" stroke-width="15"/>
+  <circle cx="256" cy="256" r="20" fill="#f44336"/>
+  <path d="M220 150 L240 120 L272 120 L292 150 L292 170 L220 170 Z" fill="#f44336"/>
+  <path d="M220 362 L240 392 L272 392 L292 362 L292 342 L220 342 Z" fill="#f44336"/>
+  <path d="M150 220 L120 240 L120 272 L150 292 L170 292 L170 220 Z" fill="#f44336"/>
+  <path d="M362 220 L392 240 L392 272 L362 292 L342 292 L342 220 Z" fill="#f44336"/>
+</svg>

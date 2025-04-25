@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Icono de Calidad - Certificado/Sello de calidad -->
+  <circle cx="256" cy="256" r="200" fill="#f0f0f0" stroke="#4caf50" stroke-width="20"/>
+  <path d="M256 120 L290 190 L370 190 L305 235 L330 310 L256 265 L182 310 L207 235 L142 190 L222 190 Z" fill="#4caf50"/>
+  <circle cx="256" cy="256" r="50" fill="#f0f0f0" stroke="#4caf50" stroke-width="10"/>
+  <path d="M236 256 L256 236 L276 256 L256 276 Z" fill="#4caf50"/>
+</svg>

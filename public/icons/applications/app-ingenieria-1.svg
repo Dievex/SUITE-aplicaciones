@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Diseño CAD -->
+  <rect x="100" y="100" width="312" height="312" rx="10" fill="#f0f0f0" stroke="#f44336" stroke-width="10"/>
+  <path d="M150 150 L362 150 L362 362 L150 362 Z" fill="none" stroke="#f44336" stroke-width="5"/>
+  <path d="M150 150 L362 362" stroke="#f44336" stroke-width="3" stroke-dasharray="10,5"/>
+  <path d="M150 362 L362 150" stroke="#f44336" stroke-width="3" stroke-dasharray="10,5"/>
+  <path d="M256 150 L256 362" stroke="#f44336" stroke-width="3" stroke-dasharray="10,5"/>
+  <path d="M150 256 L362 256" stroke="#f44336" stroke-width="3" stroke-dasharray="10,5"/>
+  <circle cx="256" cy="256" r="50" fill="none" stroke="#f44336" stroke-width="5"/>
+  <circle cx="256" cy="256" r="10" fill="#f44336"/>
+  <path d="M200 200 L220 220" stroke="#f44336" stroke-width="5" stroke-linecap="round"/>
+  <path d="M290 290 L310 310" stroke="#f44336" stroke-width="5" stroke-linecap="round"/>
+  <path d="M200 310 L220 290" stroke="#f44336" stroke-width="5" stroke-linecap="round"/>
+  <path d="M290 220 L310 200" stroke="#f44336" stroke-width="5" stroke-linecap="round"/>
+</svg>
