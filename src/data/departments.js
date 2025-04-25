@@ -97,7 +97,7 @@ const departments = [
         id: 'app-ingenieria-1',
         name: 'Cronometro de parada de maquinas',
         description: 'Herramienta para el seguimiento de tiempos de parada de maquinas',
-        url: 'https://cad.ejemplo.com',
+        url: 'http://192.168.103.140:5000/',
         icon: '/icons/applications/app-ingenieria-1.svg'
       },
       {
